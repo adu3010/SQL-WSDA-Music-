@@ -1,9 +1,3 @@
-/*CREATED BY: SAM AGUIAR
-CREATE DATE: 09/19/2023
-DESCRIPTION: How many invoices were billed in citities that have a B anywhere in the name?
-*/
--- % I don't care what comes next
-
 SELECT
 	InvoiceDate,
 	BillingAddress,
