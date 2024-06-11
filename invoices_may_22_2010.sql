@@ -1,9 +1,3 @@
-/*CREATED BY: SAM AGUIAR
-CREATE DATE: 09/19/2023
-DESCRIPTION: How many invoices were billed on May 22 2010?
-*/
--- % I don't care what comes next
-
 SELECT
 	InvoiceDate,
 	BillingAddress,
