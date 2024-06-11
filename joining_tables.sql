@@ -1,8 +1,3 @@
-/*CREATED BY: SAM AGUIAR
-CREATE DATE: 09/19/2023
-DESCRIPTION: Apply JOINS
-*/
-
 SELECT
 	c.FirstName,
 	c.LastName,
