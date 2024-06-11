@@ -1,7 +1,4 @@
-/*CREATED BY: SAM AGUIAR
-CREATE DATE: 09/19/2023
-DESCRIPTION: WSDA Music Sales Goal - they want as many customers as possible to spend between $7.00 and $15.00
-
+/*
 Sales Categories:
 BAseline Purchase - Between $0.99 and $1.99
 Low Purchase - Between $2.00 and $6.99
