@@ -1,8 +1,3 @@
-/*CREATED BY: SAM AGUIAR
-CREATE DATE: 09/19/2023
-DESCRIPTION: Apply JOINS on more than two tables | What employees are responsible for the 10 heightest individual sales?
-*/
-
 SELECT
 	e.FirstName,
 	e.LastName,
