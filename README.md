@@ -12,6 +12,4 @@
 The data set, WBDA Music, is from the LinkedIn Learning Course, 'SQL Essentials Training'. There are 11 tables included in the data set.
 
 ## SKILLS ##
-Using SQL Lite, I wrote querries using:
-
-## NEXT STEPS ##
+SQLite
