@@ -1,8 +1,3 @@
-/*
-Created by: Sam Aguiar
-Create Date: 09/20/23
-Description:  Subquerries and DISTINCT | Which tracks are not selling?
-*/
 SELECT
 	TrackId,
 	Composer,
